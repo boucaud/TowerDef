@@ -1,0 +1,12 @@
+//------------------------------------------------------------------
+// Addin-Application header control file, created with the CASIO SDK
+//------------------------------------------------------------------
+[OUTPUT]     : "TOWERDEF.G1A"
+[BINDATA]    : "FXADDINror.bin"
+[DISPNAME]   : "towerDef"
+[APPNAME]    : "@TOWERDE"
+[VERSION]    : "01.00.0000"
+[APL_ICON]   : "MainIcon.bmp"
+[MODULE_NUM] : 0
+[MOD1_TITLE] : "towerDef"
+[MOD1_ICON]  : "eActivityIcon.bmp"
